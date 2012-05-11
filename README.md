@@ -1,6 +1,13 @@
 # Russian-Armstrong-Erlang
 
-Перевод книги Дж.Армстронга &quot;Programming Erlang&quot;
+Перевод книги Дж.Армстронга «Programming Erlang»,
+https://github.com/dyp2000/Russian-Armstrong-Erlang
+
+# TODO
+
+* Доперевести оставшиеся части или получить их.
+* Сверстать в человеческом виде (TeX).
+* Оформить в виде pdf-книги из серии «Особенности сетевого фольлора».
 
 # Оглавление
 
