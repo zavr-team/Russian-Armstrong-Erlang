@@ -1,7 +1,8 @@
 # Russian-Armstrong-Erlang
 
 Перевод книги Дж.Армстронга «Programming Erlang»,
-https://github.com/dyp2000/Russian-Armstrong-Erlang
+* Оригинал перевода https://github.com/dyp2000/Russian-Armstrong-Erlang
+* Переверстка https://github.com/dieu/Russian-Armstrong-Erlang
 
 # TODO
 
